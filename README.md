@@ -8,7 +8,7 @@ This is my **first project** with [The Odin Project](https://www.theodinproject.
 
 In this project, I’ll be building a basic webpage that lists three different recipes. Each recipe will link to its own dedicated page.
 
-For this initial version, I’ll only be using **HTML** to structure the website and its content.
+For this initial version, I’ll only be using **HTML** to structure the website and its content and **CSS** to style it.
 
 ## Features
 
@@ -18,7 +18,7 @@ For this initial version, I’ll only be using **HTML** to structure the website
 
 ## Technologies Used
 
-- **HTML**
+- **HTML + CSS**
 
 ## How to View the Project
 
